@@ -37,7 +37,7 @@ Eine moderne Boilerplate für FiveM-Ressourcen, die TypeScript und Vue.js verwen
 
 1. **Klonen Sie das Repository**
    ```bash
-   git clone https://github.com/IhrUsername/fivem-ts-vue-boiler.git
+   git clone https://github.com/NothingButArti/fivem-ts-vue-boiler.git
    cd fivem-ts-vue-boiler
    ```
 
