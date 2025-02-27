@@ -1,0 +1,20 @@
+{
+  "name": "nba-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^3.x.x"
+  },
+  "devDependencies": {
+    "@types/node": "^20.x.x",
+    "typescript": "^5.x.x"
+  }
+}
