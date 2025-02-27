@@ -149,3 +149,5 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe die [LICENSE](LICENSE
 
 Bei Fragen oder Problemen können Sie:
 - Ein Issue auf GitHub erstellen
+- Mich in Discord anschreiben #articurl
+
