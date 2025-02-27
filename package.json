@@ -1,0 +1,16 @@
+{
+    "name": "fivem-ts-vue-boiler by nba",
+    "version": "1.0.0",
+    "license": "MIT",
+    "private": true,
+    "workspaces": [
+      "client",
+      "server",
+      "web"
+    ],
+    "scripts": {
+      "build": "npm run build --workspaces",
+      "dev": "npm run dev --workspaces --if-present",
+      "watch": "npm run watch --workspaces --if-present"
+    }
+  }
